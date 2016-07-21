@@ -1,6 +1,6 @@
 # Git Lab
-
-
+clear all
+x*2+(y+1)^2
 
 
 1.  設定與檢視 Git 設定值
